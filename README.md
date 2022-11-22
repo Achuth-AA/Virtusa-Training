@@ -1,7 +1,7 @@
 <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Achuth Dintakurthi (Virtusian) </h1>
+         width="45" /> I'm Achuth Dintakurthi  </h1>
 
 <h3 align="center">Welcome to my Virtusa Training Repo </h3>
 <hr />
